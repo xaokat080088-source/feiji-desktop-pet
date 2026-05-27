@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+installer_output/
+*.spec.bak
+
+# Secrets
+.env
+config.json
+secrets.json
+api_key.txt
+
+# Runtime data
+pet_state.json
+cache/
+logs/
+*.log
+.feiji_started
+
+# TTS/audio cache
+tmp/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Private files
+private/
