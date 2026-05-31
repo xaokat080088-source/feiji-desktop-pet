@@ -1,5 +1,7 @@
 # Feiji Desktop Pet（肥鸡桌面宠物）
 
+<img width="1280" height="640" alt="preview" src="https://github.com/user-attachments/assets/cff02bb9-6f90-47e9-a793-0f6c88860b5f" />
+
 一个基于 Python / PyQt5 的可爱玄凤鹦鹉桌面宠物项目，支持逐帧动画、拖拽互动、喂食、摸摸、唱歌、TTS 朗读、系统托盘、亲密度系统，以及基于 LLM 的对话与动画联动。
 
 > 中文说明在前，English version below.
